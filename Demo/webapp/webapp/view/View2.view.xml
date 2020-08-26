@@ -1,4 +1,4 @@
-<mvc:View controllerName="com.yash.ptg.webapp.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<mvc:View controllerName="com.yash.ptg.webapp.controller.View2" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
 	<Shell>
 		<App >
 			<pages>
